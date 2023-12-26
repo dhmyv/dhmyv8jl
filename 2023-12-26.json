@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Banks",
+  "age": 40,
+  "address": {
+    "street": "Vepna Loop",
+    "city": "Bitojez",
+    "state": "WI",
+    "zip": "30417"
+  },
+  "contact": {
+    "phone": "(843) 271-6295",
+    "servicePhone": "800335848"
+  },
+  "birthday": "1989-03-05T20:50:26.318Z",
+  "ip": "122.243.19.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Woirci hekek la mepo fi kakasew ziagu ado ja uve ducfus vudko gudahvo vibe iwabufu. Lus to be he leju jitcuf metnum bukal onsin kir leweh san arba zogsokzuh. Wad te ijesu wikakibol po hecne lew ri dabre wem bicdoh lu pun. Ahunib zo ake jevana hewe nuh atga hoaha cullome se arjub iv pe bucdor ze in nar jotja.",
+    "bio": "Kub se juh ona fomi rewicpef godi fok megivdel cuonupi raza zuuzvot altazi bec zasegazo tevzofav. Viripjov so terkolwub be dah ogafera vihifad kaedwu ervicmej zacmih gib bi sato. Devobu futsel gij noniz iveca af lehkil dezpander vehgeswo zot are fihopu favjif kug betome. Cicub duvkurcil ogi wec monozo kezuro rowedoc hosmulwu pis moteb ma laf viopa. Potpo agosadsa bitu caranilo fowkatko hetorog padoj uzok voclo diwgogsar zuaso gekig. Zelaci utoan cojoden irifilo gule co le gog fam hivurop kepitiziz zozli piatun. Pupfowi isi kuduh nu cotegse rocna idporzew el ud nuzmep didoj zin fepi zedo."
+  },
+  "apiKey": "34b936fb72fb7867322d1bd19367576626a4b16f3f7ac6f8d46dd6dde6bafe8a",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
