@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Robinson",
+  "age": 25,
+  "address": {
+    "street": "Oggus Avenue",
+    "city": "Weupnaw",
+    "state": "IL",
+    "zip": "63493"
+  },
+  "contact": {
+    "phone": "(302) 399-3918",
+    "servicePhone": "800986727"
+  },
+  "birthday": "1961-04-24T06:13:42.171Z",
+  "ip": "230.21.139.254",
+  "foo": "bar",
+  "profile": {
+    "about": "No lubipa soru voddibpa heb wej serfe ele dinoredir za giz ji. Efi wutokek pewigom lafeplap wi nuuga lel bujwinke zopubpof fewza ucuip zichaf nufeh mu ictefji otah dadnegiv tejpaoc. Ad vib soep wa veb fabgi aduzapo pogirip fipgawfe heja feldotni jizuvoh.",
+    "bio": "Nuh uwuje vosi vufrifi weoha ef boknoj tiv tujodamok lobif era zemvilwi am. Jut si it gujuv alapasgi jet kahir elbopo nan awi hosdupi cakow lahir wosobvu. Lup lar jehul ezo naozo epufipde sug sog adu vep sa dilagsu abutenet ahaca uja havrod kopdato pafoldon. Okwav zuwfeg ziosu pajni ur rob fievnup caaf jetbarhij zo ken ge pudir bomzenfu. Fubpurse tapza fo jirere jo zuava erubewu vib reve enow fem juvetje havtu kij joc bo. Nidieb fi gikug itwative ro ej cug ivmona keg ji ral rigakma. Bejzevek otfo pag duzvurih min kidewures tizci mid vafokrab tudur suzduf pazin age ekhizme."
+  },
+  "apiKey": "c1f162de4e5373a97cb0ff162324607b69285f6831cfdbdb9feabedc52f74cb5",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
