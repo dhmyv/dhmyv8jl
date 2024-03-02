@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Sutton",
+  "age": 65,
+  "address": {
+    "street": "Bofos River",
+    "city": "Falcokuce",
+    "state": "RI",
+    "zip": "88283"
+  },
+  "contact": {
+    "phone": "(470) 826-4424",
+    "servicePhone": "800352456"
+  },
+  "birthday": "1984-04-04T13:16:29.604Z",
+  "ip": "122.181.206.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Je coig ipbu nu dir ovekirevu necor gilo hogeva nihte kojpobpi ja zoji jehuitu esopigpa muc man. Rilvedbu gakbeh zupap ogute ajgotjew cuzmis val zirwos iwijiom gilonuz zebufegih zas sail finki ci sa. Ethimi ker ta cehah os fojako mu moz duh sulonzo ri tilaj huvwebe. Acatugta rumam bittiuve jadihaij fe ru idegepife igpikfe er dal og wefver coktur oguasibi odaardi. Ri cobiwla gahzu ani emecze jico hozu hovve juwup in wab jabus jid. Putahde zad vetub canzeh iruhiktaw weju ges kas jatul wu alanemeb wusiv ta dom. Be muhal kuhril eza nez ne ho raele peheag durob minija ma pikmuf netide fowuru efacudnoj po tobo.",
+    "bio": "Wupob jaomeene nursodef ojsib ob vidbaeh naed ka unmu sekeffi vad sa fif. Ke fiola ojisukcik buhana faju abhazwat efehe tedojme tu da okagem urgic uheoka kano ogcop bapacec zectifi vo. Wafitkow gudotgu du ora ehhatjuv nujih jicdoj nuceke vedomi eviti tovga are bilecwa ziv jaan."
+  },
+  "apiKey": "ac72490f08012584f3ea1865b3191e7291cc1ed84c69d6dd80e420f09cec7017",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
