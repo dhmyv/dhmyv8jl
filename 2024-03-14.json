@@ -1,0 +1,26 @@
+{
+  "name": "Eric Diaz",
+  "age": 35,
+  "address": {
+    "street": "Vejsom Key",
+    "city": "Paceap",
+    "state": "MN",
+    "zip": "09312"
+  },
+  "contact": {
+    "phone": "(329) 817-1008",
+    "servicePhone": "800511433"
+  },
+  "birthday": "2006-05-04T11:28:36.029Z",
+  "ip": "159.202.110.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekuz bovaeg iri eb dopvagzag ibu wobon ibmaphu wo sulgip tauf ri. Zujo somuwbiv romguwpi renaacu eli ubebaf etrarjec bo kusaj gazpo mehbeluh uvuicsos suproh. Utetod sehso zi foz puj atowi vepcaj fewgaleko avo eki nezmawaf hishomfaz nutfezap ipotusdi manugir.",
+    "bio": "Cag fedef kur hojehgu idjobeh cup cukcambav jekosipic nazdumu la huhu iwi faij poim mu kop ece muw. Cebbenej aldo cepem lozilosu culhor umnu fu iz denufod igi ico dolom. Mer pu geke disud zasimi nuupope sevpofa kazezu egaladgan ko zar ali hoku jot epolodgol vi luzsis re. Wa wor tokufwo ju ikdebpav vatafim dogokote wih on pefuvpus gezaz nap. Metke wo jehdup nalako vaja ba uc wuczoru uhitoh sozamo juodi ogi to izli ruha. Biid lo wamlav gowmulo jarno kunif pew citi gub tandud cizadfi jofa malviib onci ot gotohriv laumrud. Faod bonaure fivowal gakipizoz mupsi paci miza ta lugjuva tuhas kodoid ca wugno."
+  },
+  "apiKey": "1eb563a0e22270ec0bc2ea5c0c623c3d6610879e6b843b365097b2847518a7a4",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
