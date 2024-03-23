@@ -1,0 +1,26 @@
+{
+  "name": "Jon Reid",
+  "age": 36,
+  "address": {
+    "street": "Jofwul Glen",
+    "city": "Buwiduaci",
+    "state": "IL",
+    "zip": "11089"
+  },
+  "contact": {
+    "phone": "(763) 666-4926",
+    "servicePhone": "800439934"
+  },
+  "birthday": "1995-07-26T18:43:55.238Z",
+  "ip": "109.95.39.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Wehca fof kapnij nibo biwam zu corku zaekumo ufawiret zagel za eg uri gijkuk buvir. Tur olso vobvecni cewuk epvo ofikel gojas zuc inred fojuda faozo habenzo inecuten wo dec. Ce ceb taaz ulugo nugcos ik deb tubobtu mut zewulem bonow ciod gogjasor onvisme fotfuv. Huburpoc hen cu kiwauki ocbiul afara iripu dik nodhi vupkuf uw vu wije tij.",
+    "bio": "Faspopsap bulsitah te duhgas me ca eha co sekac fahbo sav ne bilaz vog epeofozok. Dijgud pefuvhob denmethis lef efocup hiserar daseb ni ivmuvel ki vab az vu bab bahabi fo. Vu ju caawo afuwa megamu ludip iw elije ji evo cubias tu dilba owuuguf opedutiz gite. Bu ijeohbak wozade on beneh hi ira abhu mocij rok ajoma jakkah rijukcob maw lenmuvajo domgitzen leap. Heh cadi gebisoce so fizoam lernav pig va ruce cefodeug gi cis ejefinol vinramre. He vu do kagsuvis wedanita viitiat mozakiew la kakpo bujloci kijmakeh vesab curo sezfil bilozaga."
+  },
+  "apiKey": "98095f3009b7b066ee723ecedf2bf5d673caf218a86f6a5fde15564fa9adac34",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
