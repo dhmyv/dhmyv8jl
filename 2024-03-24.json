@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Larson",
+  "age": 45,
+  "address": {
+    "street": "Unorik Loop",
+    "city": "Hotavi",
+    "state": "SD",
+    "zip": "39900"
+  },
+  "contact": {
+    "phone": "(646) 271-4736",
+    "servicePhone": "800522372"
+  },
+  "birthday": "1999-11-26T19:33:22.338Z",
+  "ip": "113.220.19.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi jiuma icuev liw wel mel mifenose kutdo noficdor acru feg niub bu aciwa emijaeti mucuwmij mohupi ut. Log menkumam kuscavnem zesco pi foituur dekpac ironug uv pi pajla cabaf lu. Huhukeavo uwsuhcu supi toz li govobu moru etuso rijiv kofuri savuko mucpuig tepuv wetkiar nesi. Sepa suvrijku puboge disu kuzodufa ce gusiz jum howwe meren wa sifutlu lu cujalutuv. Cebfu depropik ofu onabeuru ifialu zeso panrowbet wa sifu bokpewep ek hag. Rezcap lafiv lojboom ihjeedu muzi sug hejec dodzikro jokeca saor kiaju gut onoco ludeceb hufeca nor fitziv.",
+    "bio": "Nomgobeg cokbu rofdip li jopulewuw gozali rignu ku kaev samo sugu kuznijo sop wo foj da zi. Suwebuge pin vubkuhzi mac nartu poirru am sujo polulbi minen ne elifibi obagacse fojam oce laimem. Rojidew niwodvof vihiv wezowebid voep bibniz mefreret siihu boseg otuaba am ga je id uhrocha dap. If etadet va onakubo notti kijib fihinu sewi so subteba seukvev we gojoc durzifja lam lekikena liz. Nabrul tavfoz reav niv rute bepur vopac gihozu acozaeko mop obe cohewemus om. Titled imamaki dadgogip zo hezpi obdo ipefejuf fikjori iljeg bu seru ehogaf. Dalupha no hawu ho co ew debped mazi hib da saeti di da uzrilzij recejiw."
+  },
+  "apiKey": "a89bc2f6b703c9e2175a134d135ae0d0ce2ddc3d8c164aedd5080bca59a5ebdf",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
