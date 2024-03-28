@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Caldwell",
+  "age": 47,
+  "address": {
+    "street": "Siljog Drive",
+    "city": "Domouh",
+    "state": "ID",
+    "zip": "05414"
+  },
+  "contact": {
+    "phone": "(733) 743-1287",
+    "servicePhone": "800788693"
+  },
+  "birthday": "2001-02-27T09:41:27.567Z",
+  "ip": "14.86.123.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Nehwotji ma kapcohno seemwan luslev uz ad iticdez ujoku sovo adicucja zu umimvo zoh muwfo ti. Vi ugodonib pa ohje pi ruvu uhjota altecpir bes nepku babidu punna cehsanad ze ombar acepah kubivot. Nej ugagow neufurag warfo lifwed tirwa lapup vu imo wikeewi junog in.",
+    "bio": "Wedtoipi ru ca semmu etmalbuk vofajil gu sac tomto fezdetmid okraaw tanpadic gagmegto he odcuz jof koulwu. Upeze gokme evihemzu ho nahhibvi su bujuzi juzuk kipi tazwevwir bubekni fuozewe. Mu uc pozvospu tonno obaf nesemefo vu zuhda igo voci daw lu lif zoldil. Huh fodem sasif hihpirtaj ukobufor balparuc le pacwippi gah jiuci mit kaino kacipa hope ufci sihjet guzjen rape. Puk nobijoh te ojose femunag rodpashi mas li pim bulavlog iregukvuh hej ukmu. Ra te tekorot nira ejo cekwuw ube fi heez wevhogoro iksevbe ifneg leew es nak acwaldu. Fa logtisfav gadtibba gegakagub cu vuka ehmoplo lew nibra jonebu zako ad jeflitzu akwiznar."
+  },
+  "apiKey": "745f68bf94c4b576e3e725c86ead46eb9f4fc9a6ab70a7c5c66b54fb510914e2",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
