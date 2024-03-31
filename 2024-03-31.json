@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Perez",
+  "age": 29,
+  "address": {
+    "street": "Pucuc Turnpike",
+    "city": "Gactebo",
+    "state": "TN",
+    "zip": "32934"
+  },
+  "contact": {
+    "phone": "(577) 690-8299",
+    "servicePhone": "800536732"
+  },
+  "birthday": "2003-11-17T12:19:13.841Z",
+  "ip": "155.11.252.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Rugmi acafadsef fi mutje vuname bimhib hidugi it wofkavek ez fekuwo zelsula ilra uvu. Pepme ini ka kodreujo puteit huktod pelebi tudeket mewebu laskibij eliorle ovepunda jodpop. Vior giid behduf josve esi ud tunbetgi gi pesokabi niw facu vewuk gedka rago. Fuveje najifop abpifat il depduz wuhilaiga kaf uvu loczovod koc ilwetfot uzka.",
+    "bio": "Caru hecu zubewagor ar fibal mamnioro we rag fi wew lare tiseglin halgel gorace. Tuwakece himawu lelajrow ej zivtob suwitaf micu valaw moate ze oksotmok viojtoj zalil nejug rapbi sojomo fivkarses. Rom pev wu wigfirwav lud togjogme po sojnikji rufgeb fe dag ipben ehikarved relul ihak. Ekuupa jurmur dap cuhona evoh fip cuw goj otihi ce rondaib dugit."
+  },
+  "apiKey": "9dafa166deaad2de845766b0f2edd5463bd19c2dd6872e2b7aacd5de6d93eb68",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
