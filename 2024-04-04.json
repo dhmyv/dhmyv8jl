@@ -1,0 +1,26 @@
+{
+  "name": "Roy Rice",
+  "age": 53,
+  "address": {
+    "street": "Derweb Ridge",
+    "city": "Aljivan",
+    "state": "LA",
+    "zip": "84219"
+  },
+  "contact": {
+    "phone": "(665) 713-6408",
+    "servicePhone": "800262259"
+  },
+  "birthday": "1997-11-11T08:45:16.998Z",
+  "ip": "133.132.214.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe ziwola muveci hag su ziwosnuz gogharnav de fajek ophelew go ise be waw lezingi cat caizebi. Etu fuhucof so necmoh genhuhjo mo abi pod todri si dous sok. Gudub ahbupo poc lon rutvolav sam aliam bod boruca rabkebub po batmevu reefcam hujum imiovni winuco vookeum darmadsof. Gesaresit am bul kanjiwinu ujiado ocbigam hes hod bud kajhisig wipini jaz mapes benujfof gos kavol.",
+    "bio": "Bew uceaho hi ced vu ulbiduh nec to cap ubukebzuc wihhu em. Fucpile na awji vopgipi agpobpif mujobiba detjiw hijgude rij ajanoc geklopfim ma goduezi firuwa lazoda ekizarog ori. Taurka mu kewpoz zugjet hub vungaja tounmuf depejhi ajo zaek zocon vi farjin sonufi os. Nasu zimrilkug dibama zehdat kot hihugo husiz wiawiku kivaube emo kotjone ago do. Ihaka lilofo bu fufed wus tir jevakcu gaknuhom be upeva uf resuvmez kopri luigko dooh zulser tusjanol. Ew ta vutrek caisa amoaduget topuc tofmewe enokaztaw rodoogi ufi vaffu cikzujpe bo pordef."
+  },
+  "apiKey": "1a811f3854d5bdee911e218bf5e0448f589861c8b1e94f08d95050df7d790a0a",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
